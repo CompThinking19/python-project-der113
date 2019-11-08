@@ -1,1 +1,7 @@
-You have a really good start here. You're over the first hurdle of getting the data into the program and working with it in the most basic ways. Now, it's just a matter of actually getting the data to do what you want. The biggest obstacle to this is conceptual rather than technical: being able to organize the data structures we discussed in class yesterday. As it currently stands, you have a good start to creating that data structure, but the code as written will in fact overwrite each state as it comes up in the for loop. We discussed this in class yesterday, but you need to check inside ride_accidents to see if the state already exists in the data set and then add it to it if it doesn't exist yet.
+You have a really good start here. You're over the first hurdle of getting the data into the program and working
+with it in the most basic ways. Now, it's just a matter of actually getting the data to do what you want.
+The biggest obstacle to this is conceptual rather than technical: being able to organize the data structures we
+discussed in class yesterday. As it currently stands, you have a good start to creating that data structure,
+but the code as written will in fact overwrite each state as it comes up in the for loop. We discussed this in class yesterday,
+but you need to check inside ride_accidents to see if the state already exists in the data set and then add it to it if
+it doesn't exist yet.
