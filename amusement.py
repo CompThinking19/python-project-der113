@@ -29,9 +29,10 @@ for col in amusement:
 #print ride_types
 
 #Create q&a with multiple choice
-#Person will guess which answer is correct out of 3 choices for each state
+#Display welcom and instructions on screen
+#Person will guess which answer is correct out of 3 choices
 #Counter will total how many right
-#Display welcome and instructions on screen
+
 print "Welcome to an informational guessing game about amusement ride accidents from 2007-2017."
 print "To play, you must guess how many injuries occured on amusement park rides over the period of 10 years."
 #Ask if the user wants to play. Use lower function in case uppercase in yes. If yes, start quiz. If not, say goodbye.
