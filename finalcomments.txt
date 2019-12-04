@@ -1,0 +1,11 @@
+Comments
+The comments were excellent throughout and were a genuine assistance in assessing your code quality.
+
+Code Quality
+I think I'm most impressed here by your savvy handling of the datasets themselves: these are large, complex datasets, and I know you mentioned in your README that working with them was your biggest challenge. The work you did in wrangling them to your own purposes is impressive, and I'm, again, grateful for your comments that showed just how thoughtful some of your choices were. Also notable is the way you both kept your code DRY and managed to randomize the questions.
+
+Ambition
+The scope of this project is notable, and the work that went into selecting a dataset that matched your purpose was as important as any line of code you wrote.
+
+Aesthetics
+I appreciate your revision to include an introductory note that orients the player and gives context. I maintain that the number of questions is probably too high, but you did include the new option to quit and give the user their score nonetheless, which was great.
